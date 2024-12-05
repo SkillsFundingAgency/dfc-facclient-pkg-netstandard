@@ -1,8 +1,10 @@
-# Digital First Careers - Find a Course Client
+# National Careers Service - Find A Course Client
 
 This project provides a find a course client which allows courses to be searched and returned for a give set of keywords.
 Its uses the WFC find a course service as its data source.
 
+> [!IMPORTANT]
+> Following a successful release into Production, this repository has now been migrated into Azure DevOps. For all future changes, please visit ADO [here](https://sfa-gov-uk.visualstudio.com/National%20Careers%20Service%20(NCS)/_git/dfe-ncs-findacourse-client). 
 
 ## Getting Started
 
